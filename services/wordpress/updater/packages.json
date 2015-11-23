@@ -1,0 +1,9 @@
+{
+    "themes": {
+        "blackbaud-theme-updater": {
+            "version": "1.1.0",
+            "zip_file": "blackbaud-theme-updater.zip",
+            "description_url": "http://www.blackbaud.com/"
+        }
+    }
+}
